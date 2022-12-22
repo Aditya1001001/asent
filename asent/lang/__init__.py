@@ -4,3 +4,4 @@ from .emoji import LEXICON  # noqa
 from .en import create_en_sentiment_component  # noqa
 from .no import create_no_sentiment_component  # noqa
 from .sv import create_sv_sentiment_component  # noqa
+from .wordnet import create_wordnet_sentiment_component
